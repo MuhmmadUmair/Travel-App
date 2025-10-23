@@ -59,8 +59,7 @@ You can view maps and pins for each destination, even in **offline mode**, once 
 
 ## 📸 Screenshots
 
-![Travel App]([screenshots/Screenshot_1758375997.png](https://github.com/MuhmmadUmair/Travel-App/blob/3bd770fe9a2eaabe16462d14aa7094053d73b64f/assets/images/App_Screenshot.jpg
-))
+![Travel App]([https://github.com/MuhmmadUmair/Travel-App/blob/3bd770fe9a2eaabe16462d14aa7094053d73b64f/assets/images/App_Screenshot.jpg])
 ## ⚙️ Getting Started
 
 ### Prerequisites
