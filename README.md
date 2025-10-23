@@ -121,5 +121,5 @@ flutter run
 
 ## 🌐 Connect with Me
 
-💼 **LinkedIn:** [https://www.linkedin.com/in/merry032c](https://www.linkedin.com/in/merry032c)
+💼 **LinkedIn:** [https://www.linkedin.com/in/merry032c](https://www.linkedin.com/in/muhmmadumair3233)
 
