@@ -1,9 +1,3 @@
-Perfect 👍 Got it!
-Below is a **professional `README.md`** specifically written for your **Flutter Travel Guide App** — in the same clean format you liked for the Quiz App.
-It includes sections like **Description**, **Features**, **Tech Stack**, **Setup**, **Future Enhancements**, and **LinkedIn/GitHub links**.
-
----
-
 # 🗺️ Flutter Travel Guide App
 
 A modern and interactive **Travel Guide App** built with **Flutter**, designed to help tourists explore destinations, view maps (including **offline map support**), and manage favorite places easily.
@@ -65,14 +59,8 @@ You can view maps and pins for each destination, even in **offline mode**, once 
 
 ## 📸 Screenshots
 
-(Add screenshots here once available)
-
-1️⃣ Home Screen (Destinations list + Favorite icon)
-2️⃣ Favorite Destinations view
-3️⃣ Offline Map view
-
----
-
+![Travel App]([screenshots/Screenshot_1758375997.png](https://github.com/MuhmmadUmair/Travel-App/blob/3bd770fe9a2eaabe16462d14aa7094053d73b64f/assets/images/App_Screenshot.jpg
+))
 ## ⚙️ Getting Started
 
 ### Prerequisites
@@ -136,11 +124,3 @@ flutter run
 
 💼 **LinkedIn:** [https://www.linkedin.com/in/merry032c](https://www.linkedin.com/in/merry032c)
 
----
-
-⭐ **If you like this project, please star the repository!**
-Your support motivates further development ❤️
-
----
-
-Would you like me to also add a **“Demo Video”** section (for YouTube/Loom link) and a **badges section** (like Flutter version, License, etc.) to make it look more professional for recruiters on GitHub?
